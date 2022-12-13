@@ -1,11 +1,11 @@
 # Subqueries-Joins
 
-<h1>Creating a report that displays customers by points</h1>
+<h1>Creating a report that displays client information using sub-queries and Joins</h1>
 
 
 
 <h2>Description</h2>
-This Portion of the project is writing a query in MYSQL to join different tables and columns to produce a report that displays the customers id, first name, and how many points they have. Those customers are then seperated into different categories (bronze, silver, and gold) broze being customers who have less than 2000 points, silver being customers who have between 2000 and 3000 points, and gold being customers who have greater than 3000 points. The results of those queries are then ordered by first name. This report dispalys my ability to write strings, joins, unions,and understand basic MYSQL functions at a high level.
+This report displays which products have never been ordered before, which clients do not have invoices, and which customers ordered lettuce using two differnt methods ( sub-query & Joins). The purpose of this project is to display my knowledge of both methods and then determine which one is more readable. Which would you prefer?
 <br />
 
 
