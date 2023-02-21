@@ -5,7 +5,7 @@
 
 
 <h2>Description</h2>
-This report displays which products have never been ordered before, which clients do not have invoices, and which customers ordered lettuce using two differnt methods ( sub-query & Joins). The purpose of this project is to display my knowledge of both methods and then determine which one is more readable. Which would you prefer?
+This report displays which products have never been ordered before, which clients do not have invoices, and which customers ordered lettuce using two differnt methods ( sub-query & Joins).The purpose of this project is to display my knowledge of both methods and then determine which one is more readable. Which would you prefer?
 <br />
 
 
